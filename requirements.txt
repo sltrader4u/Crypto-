@@ -1,0 +1,7 @@
+ccxt
+requests
+pytz
+pandas
+pandas_ta
+scipy
+numpy
